@@ -1,0 +1,21 @@
+OrderID,Date,Customer,Product,Quantity,Price
+2001,2025-09-01,John Doe,Laptop,1,60000
+2002,2025-09-02,Jane Smith,Mouse,3,500
+2003,2025-09-02,Sam Lee,Keyboard,2,1500
+2004,2025-09-03,Alice Brown,Monitor,1,12000
+2005,2025-09-04,Mike Johnson,Smartphone,2,40000
+2006,2025-09-04,Emma Wilson,Tablet,1,25000
+2007,2025-09-05,Chris Evans,Headphones,4,2500
+2008,2025-09-05,Jane Smith,Laptop,1,60000
+2009,2025-09-06,John Doe,Webcam,2,3000
+2010,2025-09-06,Sam Lee,Mouse,5,500
+2011,2025-09-07,Alice Brown,Smartphone,1,40000
+2012,2025-09-08,Emma Wilson,Keyboard,3,1500
+2013,2025-09-08,Chris Evans,Monitor,2,12000
+2014,2025-09-09,Mike Johnson,Tablet,2,25000
+2015,2025-09-09,John Doe,Laptop,1,60000
+2016,2025-09-10,Jane Smith,Headphones,2,2500
+2017,2025-09-10,Sam Lee,Mouse,1,500
+2018,2025-09-11,Alice Brown,Smartphone,3,40000
+2019,2025-09-12,Chris Evans,Laptop,1,60000
+2020,2025-09-12,Emma Wilson,Webcam,2,3000
